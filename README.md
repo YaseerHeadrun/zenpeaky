@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🌱 I’m currently learning Django and DRF
-- 👯 I’m looking to collaborate on opensources project
 - 💬 Ask me about touring in Nusa Penida
 - 📫 How to reach me: sensnerd@gmail.com
 
