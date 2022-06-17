@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 💬 Ask me about touring in Nusa Penida
-- 📫 How to reach me: sensnerd@gmail.com
 
 <table>
   <tr>
