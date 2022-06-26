@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 
 ### Hello world! 👋
 #### I'm Kusuma.. passionate in many things ☕️ 🤠
-> Frontend, Backend, Linux, Docker, UX Design, UI Design, Illustration, Opensource, Coffee, Game, Memes etc.
+> Frontend, Backend, Linux, Docker, UX Design, UI Design, Illustration, Opensource, Coffee, Game, Meme etc.
 
 
