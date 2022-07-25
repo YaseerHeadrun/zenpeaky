@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zenpeaky&theme=nightowl&show_icons=true&border_radius=8&count_private=true&hide=stars&border_color=5D4092&custom_title=Stats">
 
 ### Hello world! 👋
-#### I'm Kusuma.. passionate in many things ☕️ 🤠
-> Frontend, Backend, Linux, Docker, UX Design, UI Design, Illustration, Opensource, Coffee, Game, Meme etc.
+#### Welcome to my ```~``` .. these are things I passionate about :
+> Frontend, Backend, Linux, UX & UI Design, Illustration, Opensource, Coffee, Game, Meme etc.
 
 
